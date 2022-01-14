@@ -1,0 +1,10 @@
+.DS_Store
+.dart_tool/
+.idea/
+*.iml
+pub_publish.bat
+
+.packages
+.pub/
+
+build/

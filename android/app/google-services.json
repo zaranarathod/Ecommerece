@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "513132562587",
+    "firebase_url": "https://lehengas-choli-online-shopping.firebaseio.com",
+    "project_id": "lehengas-choli-online-shopping",
+    "storage_bucket": "lehengas-choli-online-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513132562587:android:c4555a561981afd9b9de3e",
+        "android_client_info": {
+          "package_name": "sarees.lehengascholi.onlineshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513132562587-a5q4bfm4t03ne9c9tjuars7tkppkihl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarees.lehengascholi.onlineshopping",
+            "certificate_hash": "1153aa3baf6a1765bb5f6c0a8338f07f98efa6eb"
+          }
+        },
+        {
+          "client_id": "513132562587-igop5pgvhtflm55jrj17de3acetujq32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarees.lehengascholi.onlineshopping",
+            "certificate_hash": "d6007c58a55e2602bfbe6b51c3fd4e88f1d31580"
+          }
+        },
+        {
+          "client_id": "513132562587-k8ot2dtnksh5air8uhsiv4rbgrqlkqpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarees.lehengascholi.onlineshopping",
+            "certificate_hash": "fdd4d7fc451c05b8a5c6ba4dc708ab1a20f8ae4d"
+          }
+        },
+        {
+          "client_id": "513132562587-ocr89n05isog081ouk2loj4ihin0ek05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarees.lehengascholi.onlineshopping",
+            "certificate_hash": "88b13af8592be38a2de1ef17c33b9fcc8760fb1b"
+          }
+        },
+        {
+          "client_id": "513132562587-roc9lkpc4878cr43tu5hgdjkd5f0uquq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarees.lehengascholi.onlineshopping",
+            "certificate_hash": "b1cc7744138a6cc86d5a0b32a1e349a744e524da"
+          }
+        },
+        {
+          "client_id": "513132562587-sp1e531hgm8sea6u4rf2s8vel4sah5ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarees.lehengascholi.onlineshopping",
+            "certificate_hash": "59c16f2b95e372f0bc45ce1ab992dd0516ed6207"
+          }
+        },
+        {
+          "client_id": "513132562587-os8vjil7v7v8uu612rdgokr277jesc5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEepHzc4n-uo8iddWgM-yFsFET_v0g5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513132562587-os8vjil7v7v8uu612rdgokr277jesc5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513132562587-iietvv34ngndse2tgjdpk251lktghqks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lehengascholi.onlineshopping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

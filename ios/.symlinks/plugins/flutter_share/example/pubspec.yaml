@@ -1,0 +1,22 @@
+name: flutter_share_example
+description: Demonstrates how to use the flutter_share plugin.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  screenshot: ^0.1.1
+  documents_picker: ^1.0.0
+  path_provider: ^1.3.0
+
+  flutter_share:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true

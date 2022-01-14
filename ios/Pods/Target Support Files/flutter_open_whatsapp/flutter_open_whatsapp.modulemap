@@ -1,0 +1,6 @@
+framework module flutter_open_whatsapp {
+  umbrella header "flutter_open_whatsapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
